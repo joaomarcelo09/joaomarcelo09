@@ -4,7 +4,7 @@
  
  ![João's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaomarcelo09&show_icons=true&theme=radical)
 
- Tecnologias que uso atualmente:
+ Linguagens:
 
  <div style="display: inline_block">
   <img align="center" alt="JAVA" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
