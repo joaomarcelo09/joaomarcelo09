@@ -11,8 +11,11 @@
 
  <div style="display: inline_block">
  <ul>
-  <li>➡️ HTML5</li>
-  <li>➡️ CSS3</li>
+  <li>➡️ Nest Js</li>
+  <li>➡️ JAVA</li>
+  <li>➡️ MySql</li>
+  <li>➡️ Bootstrap</li>
+  <li>➡️ Node Js</li>
   <li>➡️ JavaScript</li>
   <li>➡️ TypeScript</li>
   <li>➡️ Vue.js</li>
