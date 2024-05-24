@@ -6,14 +6,14 @@
  
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaomarcelo09&theme=synthwave&layout=compact&hide=jupyter%20notebook) 
 
- Linguagens:
+ <!---Linguagens:
 
  <div style="display: inline_block">
   <img align="center" alt="JAVA" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img align="center" alt="TS" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img align="center" alt="PY" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
   <img align="center" alt="JS" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-</div><br/>
+</div><br/> --->
 
 entusiasta na área de tecnologia.
  
