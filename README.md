@@ -3,6 +3,8 @@
  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-marcelo-a31b75206/)
  
  ![João's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaomarcelo09&show_icons=true&theme=radical)
+ 
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaomarcelo09&theme=synthwave&layout=compact&hide=jupyter%20notebook) 
 
  Linguagens:
 
