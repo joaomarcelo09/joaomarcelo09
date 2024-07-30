@@ -68,7 +68,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/joaomarcelo09/joaomarcelo09/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/joaomarcelo09/joaomarcelo09/output/snake.yml" alt="Snake animation" />
 
 ###
 
