@@ -3,7 +3,7 @@
 
 ## Olá, João Gomes aqui. ✋
 
-- Desenvolvedor FullStack, Rio de Janeiro, 21 anos.
+- Desenvolvedor FullStack, Rio de Janeiro, 22 anos.
 
 <h2 align="center">Stats</h2>
 
