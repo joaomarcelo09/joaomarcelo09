@@ -1,4 +1,4 @@
-<h2 align="left">My name is João Gomes and welcome to my github</h2>
+<h2 align="left">My name is João Gomes</h2>
 
 ###
 
