@@ -6,7 +6,7 @@
 
 ###
 
-<picture>
+<picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joaomarcelo09/joaomarcelo09/main/assets/build-terminal-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/joaomarcelo09/joaomarcelo09/main/assets/build-terminal.svg">
   <img alt="terminal compilando a stack" src="https://raw.githubusercontent.com/joaomarcelo09/joaomarcelo09/main/assets/build-terminal.svg">
